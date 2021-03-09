@@ -32,7 +32,7 @@ $modversion['dirname']     = basename(__DIR__);
 
 //---模組狀態資訊---//
 $modversion['status_version']      = '1.0';
-$modversion['release_date']        = '2017-05-31';
+$modversion['release_date']        = '2017/05/31';
 $modversion['module_website_url']  = 'http://tad0616.net';
 $modversion['module_website_name'] = _MI_LOT_AUTHOR_WEB;
 $modversion['module_status']       = 'release';
